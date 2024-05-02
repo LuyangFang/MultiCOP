@@ -1,0 +1,4 @@
+dr==3.0.10
+MASS==7.3.60
+foreach==1.5.2
+parallel==4.1.1
