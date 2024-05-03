@@ -12,11 +12,11 @@ The Taxon Set Enrichment Analysis ([TSEA](https://edisciplinas.usp.br/pluginfile
 
 ### Tutorial
 
-MultiCOP requires two data tables in matrix form as input, denoted as **X** and **Y**, each with dimensions of n_sample by n_feature. The instructions for implementing MultiCOP are available in [example.R](https://github.com/Luyang8991/MultiCOP/blob/main/code/example.R). The tutorial shows how to implement the first scenario in simulation.
+MultiCOP requires two data tables in matrix form as input, denoted as **X** and **Y**, each with dimensions of n_sample by n_feature. The script [utils.R](https://github.com/Luyang8991/MultiCOP/blob/main/code/utils.R) contains all the utility functions that are essential for the operations carried out in the project. The script [main.R](https://github.com/Luyang8991/MultiCOP/blob/main/code/main.R) hosts the main function of the project. An example for implementing MultiCOP is available in [example.R](https://github.com/Luyang8991/MultiCOP/blob/main/code/example.R). This example shows how to implement the second scenario in the simulation section.
 
 #### Requirement
 
-The function is built on R version 4.1.1. The [requirement.txt](https://github.com/zoey114/MultiCOP/blob/main/requirements.txt) file lists all the packages the notebook depends on. 
+The function is built on R version 4.1.1. The [requirement.txt](https://github.com/Luyang8991/MultiCOP/blob/main/requirements.txt) file lists all the packages the notebook depends on. 
 
 
 ### Data used in the paper
