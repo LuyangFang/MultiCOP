@@ -21,7 +21,7 @@ The function is built on R version 4.1.1. The [requirement.txt](https://github.c
 
 ### Data used in the paper
 
-The original dataset of Inflammatory bowel disease (IBD) is available [here](https://ibdmdb.org/tunnel/public/summary.html).
+The original dataset of Inflammatory bowel disease (IBD) is available [here](https://ibdmdb.org).
 
 The original dataset of Chronic Ischemic Heart Disease (CIHD) is available [here](https://www.nature.com/articles/s41591-022-01688-4).
 
