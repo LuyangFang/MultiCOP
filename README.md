@@ -33,6 +33,6 @@ The original dataset of Chronic Ischemic Heart Disease (CIHD) is available [here
 
 ### License
 
-Copyright © 2023 [Zoey](https://github.com/zoey114). <br />
+Copyright © 2024 [Luyang](https://github.com/Luyang8991). <br />
 This project is [MIT](https://github.com/zoey114/MultiCOP/blob/main/LICENSE) licensed.
 
